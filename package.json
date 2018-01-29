@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/nhquocvinh/auto-clone-fm.git",
   "author": "vinhnguyenhq <nhquocvinh@gmail.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
 }
