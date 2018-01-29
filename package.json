@@ -1,0 +1,8 @@
+{
+  "name": "auto-clone-fm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nhquocvinh/auto-clone-fm.git",
+  "author": "vinhnguyenhq <nhquocvinh@gmail.com>",
+  "license": "MIT"
+}
